@@ -1,0 +1,25 @@
+{
+  "name": "UseMiddelware",
+  "version": "1.0.0",
+  "description": "Ejemplo practico del uso del middelware -seguridad , errores y autentificación de usuario",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bellsource/UseMiddelware.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bellsource/UseMiddelware/issues"
+  },
+  "homepage": "https://github.com/bellsource/UseMiddelware#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6"
+  }
+}
